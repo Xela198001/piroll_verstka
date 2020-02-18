@@ -1,0 +1,18 @@
+body {
+    width: 1366px;
+    height: 670px;
+    background-color: #ffffff;
+}
+
+.contaner {
+    border: 1px solid red;
+    margin: 0 98px;
+    width: 1170px;
+    height: 5797px;
+    /* opacity: 0.2; */
+}
+div.header {
+    height: 670px;
+    background-color: #e9e9e9;
+    position: relative;
+}
